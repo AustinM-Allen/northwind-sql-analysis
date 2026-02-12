@@ -12,4 +12,5 @@ SQL analysis of retail sales data using PostgreSQL - demonstrating CTEs, window 
 3. Connect to database: `psql northwind`
 4. Run queries from `queries.sql`
   - To run simply highlight and hit run
-  - <img width="1071" height="531" alt="Screenshot 2026-02-05 134807" src="https://github.com/user-attachments/assets/cf08d5a6-0e61-432f-bb5b-86121749b270" />
+  - <img width="1041" height="558" alt="Screenshot 2026-02-12 143923" src="https://github.com/user-attachments/assets/173cb463-6f7a-42aa-9c3d-714d27bb1256" />
+
